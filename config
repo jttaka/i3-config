@@ -67,8 +67,8 @@ bindsym $mod+shift+t exec thunar
 # kill focused window
 bindsym $mod+Shift+q kill
 
-# store command bind
-bindsym $mod+Shift+s exec store
+# store command bind (made specificaly only for my laptop)
+# bindsym $mod+Shift+s exec store
 
 # start dmenu (a program launcher)
 bindsym $mod+f exec --no-startup-id dmenu_run
